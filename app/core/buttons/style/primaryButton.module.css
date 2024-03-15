@@ -1,0 +1,11 @@
+.contained{
+    background-color: #51bf88;
+    text-transform: none; 
+}
+
+.outlined{
+    background-color: white;
+    border: 1px solid #51bf88;
+    color: #51bf88;
+    text-transform: none; 
+}

@@ -1,0 +1,27 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 600px;
+  background-color: #666666
+}
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.stack {
+  width: 100%;
+}
+
