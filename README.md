@@ -26,4 +26,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deployed on vercel
-[https://readytech-assesment-am94u0f5i-a-empas-projects.vercel.app/](https://readytech-assesment-am94u0f5i-a-empas-projects.vercel.app/)
+[https://readytech-assesment.vercel.app/](https://readytech-assesment.vercel.app/)
