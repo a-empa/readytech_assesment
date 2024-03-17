@@ -1,0 +1,25 @@
+.inputLabel {
+    font-family: Noto Sans, sans-serif;
+    text-transform: none; 
+}
+
+.notchedOutline {
+    border-color: #000000 !important;
+}
+
+.focused {
+    color: #000000 !important;
+}
+
+.error {
+    color: #ff0000 !important;
+    border-color: #ff0000  !important;
+    width: 100%;
+    text-align: left;
+}
+
+.optional {
+    color: #666666;
+    text-align: left;
+    width: 100%;
+}
