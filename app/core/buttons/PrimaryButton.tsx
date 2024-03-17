@@ -51,6 +51,7 @@ const PrimaryButton = ({
                 <CircularProgress
                     size={24}
                     sx={{
+                        color: "#51bf88",
                         position: "absolute",
                         top: "50%",
                         left: "50%",
