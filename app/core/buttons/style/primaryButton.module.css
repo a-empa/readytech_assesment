@@ -1,3 +1,10 @@
+.root{
+    text-transform: "none"
+}
+.root:hover{
+    background-color: "#baedd4" 
+}
+
 .contained{
     background-color: #51bf88;
     text-transform: none; 
